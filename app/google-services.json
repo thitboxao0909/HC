@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463148419152",
+    "firebase_url": "https://hc-mad.firebaseio.com",
+    "project_id": "hc-mad",
+    "storage_bucket": "hc-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463148419152:android:3af1dd1329299c7cd46955",
+        "android_client_info": {
+          "package_name": "com.example.hc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463148419152-jtri3odp06qii47tvhod7j9afnptnsaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpko95VNyra0FV_7hx9PW57xO5zgrdXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463148419152-jtri3odp06qii47tvhod7j9afnptnsaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
